@@ -1,2 +1,1 @@
-# osapp.store
-osapp.store ( Open Source App Store Official website )
+# Open Source App Store Official website
